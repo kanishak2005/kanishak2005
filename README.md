@@ -37,7 +37,6 @@
 
 ---
 
-### 🚀 About Me
 
 
 ## 📡 Communication Paths
