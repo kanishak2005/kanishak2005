@@ -24,8 +24,8 @@
     <a href="mailto:kanishak2005@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://leetcode.com/u/kanishak2005/">
-  <img src="https://leetcode-stats-api.herokuapp.com/kanishak2005" alt="Kanishk's LeetCode Stats" width="100%" />
+    <a href="https://leetcode.com/u/kanishak2005/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
   </p>
 
