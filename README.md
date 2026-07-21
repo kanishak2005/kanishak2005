@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Kanishk Agrawal Banner" width="100%" />
+  <img src="./banner.svg" alt="Kanishk Agrawal Animated Banner" width="100%" />
 
   <br/><br/>
 
