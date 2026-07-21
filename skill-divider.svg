@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="260" viewBox="0 0 950 260" fill="none">
+  <defs>
+    <!-- Background Card Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0d14" />
+      <stop offset="50%" stop-color="#101524" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+
+    <!-- Skill Bar Gradients -->
+    <linearGradient id="cyan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f0ff" />
+      <stop offset="100%" stop-color="#7000ff" />
+    </linearGradient>
+    <linearGradient id="purple-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7000ff" />
+      <stop offset="100%" stop-color="#ff007f" />
+    </linearGradient>
+
+    <!-- Sweeping Light Pulse -->
+    <linearGradient id="sweep-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .skill-title { font-family: 'Fira Code', Consolas, monospace; font-size: 13px; font-weight: 700; fill: #58a6ff; }
+    .percentage { font-family: 'Fira Code', Consolas, monospace; font-size: 12px; font-weight: 600; fill: #8b949e; }
+    .track { fill: #161b22; stroke: #30363d; stroke-width: 1px; }
+  </style>
+
+  <!-- Container Box -->
+  <rect width="950" height="260" rx="14" fill="url(#bg-grad)" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- SKILL 1: JAVA / C++ / DSA -->
+  <g transform="translate(40, 35)">
+    <text x="0" y="0" class="skill-title">☕ JAVA / C++ / DSA</text>
+    <text x="820" y="0" class="percentage" text-anchor="end">88%</text>
+    <rect class="track" x="0" y="10" width="820" height="14" rx="7" />
+    <rect x="0" y="10" width="0" height="14" rx="7" fill="url(#cyan-grad)" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="721" dur="1.8s" fill="freeze" />
+    </rect>
+  </g>
+
+  <!-- SKILL 2: FULL STACK / MERN -->
+  <g transform="translate(40, 80)">
+    <text x="0" y="0" class="skill-title">🌐 FULL STACK DEVELOPMENT (MERN / REACT)</text>
+    <text x="820" y="0" class="percentage" text-anchor="end">85%</text>
+    <rect class="track" x="0" y="10" width="820" height="14" rx="7" />
+    <rect x="0" y="10" width="0" height="14" rx="7" fill="url(#purple-grad)" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="697" dur="2.0s" fill="freeze" />
+    </rect>
+  </g>
+
+  <!-- SKILL 3: AI / MACHINE LEARNING -->
+  <g transform="translate(40, 125)">
+    <text x="0" y="0" class="skill-title">🧠 AI &amp; MACHINE LEARNING INTEGRATION</text>
+    <text x="820" y="0" class="percentage" text-anchor="end">80%</text>
+    <rect class="track" x="0" y="10" width="820" height="14" rx="7" />
+    <rect x="0" y="10" width="0" height="14" rx="7" fill="url(#cyan-grad)" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="656" dur="2.2s" fill="freeze" />
+    </rect>
+  </g>
+
+  <!-- SKILL 4: AWS CLOUD / DOCKER -->
+  <g transform="translate(40, 170)">
+    <text x="0" y="0" class="skill-title">☁️ AWS CLOUD &amp; DOCKER DEPLOYMENT</text>
+    <text x="820" y="0" class="percentage" text-anchor="end">78%</text>
+    <rect class="track" x="0" y="10" width="820" height="14" rx="7" />
+    <rect x="0" y="10" width="0" height="14" rx="7" fill="url(#purple-grad)" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="639" dur="2.4s" fill="freeze" />
+    </rect>
+  </g>
+
+  <!-- SKILL 5: DATABASES & SYSTEM DESIGN -->
+  <g transform="translate(40, 215)">
+    <text x="0" y="0" class="skill-title">🗄️ DATABASES &amp; SYSTEM ARCHITECTURE</text>
+    <text x="820" y="0" class="percentage" text-anchor="end">82%</text>
+    <rect class="track" x="0" y="10" width="820" height="14" rx="7" />
+    <rect x="0" y="10" width="0" height="14" rx="7" fill="url(#cyan-grad)" filter="url(#glow)">
+      <animate attributeName="width" from="0" to="672" dur="2.6s" fill="freeze" />
+    </rect>
+  </g>
+</svg>
