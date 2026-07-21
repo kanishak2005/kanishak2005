@@ -46,7 +46,7 @@
   <!-- SKILL 1: JAVA / C++ / DSA -->
   <g transform="translate(40, 35)">
     <text x="0" y="0" class="skill-title">☕ JAVA / C++ / DSA</text>
-    <text x="820" y="0" class="percentage" text-anchor="end">88%</text>
+    <text x="820" y="0" class="percentage" text-anchor="end">58%</text>
     <rect class="track" x="0" y="10" width="820" height="14" rx="7" />
     <rect x="0" y="10" width="0" height="14" rx="7" fill="url(#cyan-grad)" filter="url(#glow)">
       <animate attributeName="width" from="0" to="721" dur="1.8s" fill="freeze" />
@@ -56,7 +56,7 @@
   <!-- SKILL 2: FULL STACK / MERN -->
   <g transform="translate(40, 80)">
     <text x="0" y="0" class="skill-title">🌐 FULL STACK DEVELOPMENT (MERN / REACT)</text>
-    <text x="820" y="0" class="percentage" text-anchor="end">85%</text>
+    <text x="820" y="0" class="percentage" text-anchor="end">75%</text>
     <rect class="track" x="0" y="10" width="820" height="14" rx="7" />
     <rect x="0" y="10" width="0" height="14" rx="7" fill="url(#purple-grad)" filter="url(#glow)">
       <animate attributeName="width" from="0" to="697" dur="2.0s" fill="freeze" />
@@ -66,7 +66,7 @@
   <!-- SKILL 3: AI / MACHINE LEARNING -->
   <g transform="translate(40, 125)">
     <text x="0" y="0" class="skill-title">🧠 AI &amp; MACHINE LEARNING INTEGRATION</text>
-    <text x="820" y="0" class="percentage" text-anchor="end">80%</text>
+    <text x="820" y="0" class="percentage" text-anchor="end">40%</text>
     <rect class="track" x="0" y="10" width="820" height="14" rx="7" />
     <rect x="0" y="10" width="0" height="14" rx="7" fill="url(#cyan-grad)" filter="url(#glow)">
       <animate attributeName="width" from="0" to="656" dur="2.2s" fill="freeze" />
@@ -76,7 +76,7 @@
   <!-- SKILL 4: AWS CLOUD / DOCKER -->
   <g transform="translate(40, 170)">
     <text x="0" y="0" class="skill-title">☁️ AWS CLOUD &amp; DOCKER DEPLOYMENT</text>
-    <text x="820" y="0" class="percentage" text-anchor="end">78%</text>
+    <text x="820" y="0" class="percentage" text-anchor="end">90%</text>
     <rect class="track" x="0" y="10" width="820" height="14" rx="7" />
     <rect x="0" y="10" width="0" height="14" rx="7" fill="url(#purple-grad)" filter="url(#glow)">
       <animate attributeName="width" from="0" to="639" dur="2.4s" fill="freeze" />
@@ -86,7 +86,7 @@
   <!-- SKILL 5: DATABASES & SYSTEM DESIGN -->
   <g transform="translate(40, 215)">
     <text x="0" y="0" class="skill-title">🗄️ DATABASES &amp; SYSTEM ARCHITECTURE</text>
-    <text x="820" y="0" class="percentage" text-anchor="end">82%</text>
+    <text x="820" y="0" class="percentage" text-anchor="end">62%</text>
     <rect class="track" x="0" y="10" width="820" height="14" rx="7" />
     <rect x="0" y="10" width="0" height="14" rx="7" fill="url(#cyan-grad)" filter="url(#glow)">
       <animate attributeName="width" from="0" to="672" dur="2.6s" fill="freeze" />
