@@ -18,15 +18,15 @@
 
   <!-- Quick Social Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/kanishk-agrawal-23bcon1585" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:YOUR_EMAIL@EXAMPLE.COM">
+    <a href="mailto:kanishak2005@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
+    <a href="https://leetcode.com/u/kanishak2005/">
+  <img src="https://leetcode-stats-api.herokuapp.com/kanishak2005" alt="Kanishk's LeetCode Stats" width="100%" />
+</a>
   </p>
 
 </div>
