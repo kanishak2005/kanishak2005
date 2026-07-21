@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="https://raw.githubusercontent.com/jainnaman14/jainnaman14/main/banner.svg" alt="Animated Banner" width="100%" />
+  <img src="./banner.svg" alt="Kanishk Agrawal Banner" width="100%" />
+  
 </p>
 
   <br/><br/>
