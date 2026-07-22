@@ -36,7 +36,7 @@
       <animate attributeName="r" values="40;48;40" dur="3s" repeatCount="indefinite" />
     </circle>
     <circle cx="90" cy="80" r="30" stroke="#00f0ff" stroke-width="2" fill="none" />
-    <text x="90" y="85" text-anchor="middle" fill="#00f0ff" font-family="sans-serif" font-weight="bold" font-size="12">AI CORE</text>
+    <text x="90" y="85" text-anchor="middle" fill="#00f0ff" font-family="sans-serif" font-weight="bold" font-size="12"></text>
 
     <!-- Floating Connected Nodes -->
     <path d="M 90 50 L 90 20 M 90 110 L 90 140 M 60 80 L 20 80 M 120 80 L 160 80" stroke="#00f0ff" stroke-width="2" stroke-dasharray="4" />
