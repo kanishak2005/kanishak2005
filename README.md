@@ -15,20 +15,17 @@
   </h1>
 
   <p>👋 Hi there! I'm <b>Kanishk Agrawal</b>, a developer passionate about building intelligent, cloud-native, and high-performance applications.</p>
+## 🏆 Achievement Archive
 
-  <!-- Quick Social Badges -->
-  ## 📡 Communication Channels
-  <p align="center">
-    <a href="https://linkedin.com/in/kanishk-agrawal-23bcon1585" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:kanishak2005@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://leetcode.com/u/kanishak2005/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-  </p>
+<div align="center">
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Developer-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+
+</div>
+
   <p align="center">
   <img src="https://raw.githubusercontent.com/kanishak2005/kanishak2005/main/skill-divider.svg" alt="Skill Proficiency Cards" width="100%" />
 </p>
@@ -39,7 +36,7 @@
 
 
 
-## 📡 Communication Paths
+## 📡 Lines Of Communication
   <p align="center">
     <a href="https://linkedin.com/in/kanishk-agrawal-23bcon1585" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
